@@ -3,7 +3,6 @@
 Welcome to my Terminal Portfolio! This project showcases my skills, education, and experiences in a unique terminal-style interface.
 
 ## Table of Contents
-- [Ahmed's Terminal Portfolio](#ahmeds-terminal-portfolio)
   - [Table of Contents](#table-of-contents)
   - [Features](#features)
   - [Photos](#photos)
