@@ -2,7 +2,12 @@
 
 Welcome to my Terminal Portfolio! This project showcases my skills, education, and experiences in a unique terminal-style interface.
 
+Live demo : 
+
+![Live demo](https://jolly-blini-4853fe.netlify.app/)
+
 ## Table of Contents
+- [AHB's Terminal Portfolio](#ahbs-terminal-portfolio)
   - [Table of Contents](#table-of-contents)
   - [Features](#features)
   - [Photos](#photos)
@@ -16,5 +21,4 @@ Welcome to my Terminal Portfolio! This project showcases my skills, education, a
 ## Photos
 ![s1](./src/assets/images/1.png)
 ![s2](./src/assets/images/2.png)
-
 
