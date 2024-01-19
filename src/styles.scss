@@ -5,17 +5,5 @@
 @import 'tailwindcss/utilities';
 
 
-*::-webkit-scrollbar {
-    width: 6px;
-    height: 6px;
-  }
 
-  *::-webkit-scrollbar-track {
-    background: #efefefb5;
-  }
-
-  *::-webkit-scrollbar-thumb {
-    background-color: #F2594B;
-    border-radius: 2px;
-  }
-  html, body { height: 100%; }
+html, body { width: 100%; height: 100%; padding: 0%; margin: 0%;}
