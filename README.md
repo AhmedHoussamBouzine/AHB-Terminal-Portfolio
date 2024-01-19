@@ -4,7 +4,7 @@ Welcome to my Terminal Portfolio! This project showcases my skills, education, a
 
 Live demo : 
 
-[Live demo](https://jolly-blini-4853fe.netlify.app/)
+[Live demo](https://unique-rabanadas-0cfdf1.netlify.app/)
 
 ## Table of Contents
 - [AHB's Terminal Portfolio](#ahbs-terminal-portfolio)
